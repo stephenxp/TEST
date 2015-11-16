@@ -1,8 +1,0 @@
-﻿Git is a version control system.
-Git is free software.
-
---------------------------------
-
-test.txt version 001 is created on 2015/11/16 14:40
-test.txt version 002 is updated on 2015/11/16 14:43
-test.txt version 003 is updated on 2015/11/16 14:49
